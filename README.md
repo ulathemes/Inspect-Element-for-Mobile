@@ -1,10 +1,4 @@
-<a href="https://eruda.liriliri.io/" target="_blank">
-    <img src="./doc/banner.jpg">
-</a>
-
-[中文](doc/README_CN.md)
-
-# Eruda
+# Inspect Element for Mobile Phone (Eruda)
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
